@@ -8,12 +8,12 @@
         "host" : "smtp.gmail.com",
         "port" : 587,
         "from" : {
-            "name" : "Adhil Novandri",
-            "address" : "adhil.nvndr@gmail.com"
+            "name" : "your_email_name",
+            "address" : "your_email"
         },
-        "username" : "adhil.nvndr@gmail.com",
-        "password" : "Adhil081189!",
-        "subject" : "Hasil Laboratorium",
-        "attachment_path" : "D:\\"
+        "username" : "your_email",
+        "password" : "your_email_password",
+        "subject" : "subject_email",
+        "attachment_path" : "path\\of\\pdf"
     }
 }

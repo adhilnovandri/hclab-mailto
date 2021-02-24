@@ -1,0 +1,19 @@
+{
+    "db" : {
+        "user" : "hclab",
+        "pass" : "hclab",
+        "host" : "localhost/hclab"
+    },
+    "mail" : {
+        "host" : "smtp.gmail.com",
+        "port" : 587,
+        "from" : {
+            "name" : "Adhil Novandri",
+            "address" : "adhil.nvndr@gmail.com"
+        },
+        "username" : "adhil.nvndr@gmail.com",
+        "password" : "Adhil081189!",
+        "subject" : "Hasil Laboratorium",
+        "attachment_path" : "D:\\"
+    }
+}
